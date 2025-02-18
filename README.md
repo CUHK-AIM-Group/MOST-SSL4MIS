@@ -11,10 +11,6 @@ We propose MOST, a simple and effective method for semi-supervised medical image
     <img width="100%" alt="MOST overview" src="code/assets/most_main.png"/>
 </div>
 
-## News
-
-**[2024.5]** :newspaper: Code and pre-trained models of MOST are released.
-
 ## Get Started
 
 Here we provide setup, training, and evaluation scripts.
